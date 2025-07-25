@@ -1,1 +1,1 @@
-*Landing Paga Ford*
+*Landing Page Ford*
