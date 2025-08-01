@@ -39,10 +39,11 @@ header {
 nav ul {
     display: flex;
     list-style: none;
+    margin-right: 48rem;
 }
 
 nav ul li {
-    margin-left: 2rem;
+    /*margin-left: 2rem;*/
 }
 
 nav ul li a {
@@ -52,6 +53,7 @@ nav ul li a {
     transition: color 0.3s;
     padding: 0.5rem 1rem;
     border-radius: 4px;
+
 }
 
 nav ul li a:hover, nav ul li a.active {
@@ -125,6 +127,11 @@ footer {
 .copyright p {
     font-size: 0.9rem;
     opacity: 0.8;
+}
+
+.png{
+    margin-top: -55rem;
+    margin-left: 1600px;
 }
 
 /* Responsividade */
